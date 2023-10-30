@@ -54,6 +54,10 @@ int main()
 		}
 		printf("\n");
 	}
+<<<<<<< HEAD
 	cout<<"calculate succeed"<<endl; 
+=======
+	cout<<"finish calculate"<<endl; 
+>>>>>>> dev
 	return 0;
 }
