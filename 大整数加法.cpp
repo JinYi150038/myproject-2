@@ -54,6 +54,6 @@ int main()
 		}
 		printf("\n");
 	}
-	cout<<"finish calculate"<<endl; 
+	cout<<"calculate succeed"<<endl; 
 	return 0;
 }
